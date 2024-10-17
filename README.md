@@ -12,3 +12,7 @@ If you are interested in colaborating, please email me at ian.delgado.8893@gmail
 - ⚡ Fun fact: ...
   I love to cook!
 
+Enjoy this image of my grumpy cat  ^-^
+
+
+![IMG_5985](https://github.com/user-attachments/assets/20549628-2441-4611-8352-336d28ffb682)
