@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @delgadoian
   
-I am a recent computer science graduate working as a help desk technician.
+My name is Ian Delgado aand I am a recent computer science graduate working as a help desk technician.
 My interests include web dev, IT, Cybersecurity, and Python programming. Oh, and chess!
 
 The programming languages I am most familiar with are C, Python, JavaScript, and a bit of Java.
